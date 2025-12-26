@@ -1,0 +1,7 @@
+{
+  "name": "Forge3D: Character Studio",
+  "description": "A comprehensive 3D character creation tool designed for Blender and Unity workflows. Sculpt body proportions, customize skins, visualize rig skeletons, and export GLTF models for your creative projects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
